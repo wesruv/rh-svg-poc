@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="100" viewbox="0 0 760 100">
+  <defs>
+      <style>
+        <![CDATA[
+          @import url("https://fonts.googleapis.com/css?family=Sigmar+One&display=swap");
+        ]]>
+      </style>
+  </defs>
+  <style><![CDATA[svg text{stroke:none}]]></style>
+  <g id="sigmar">
+    <text x="20" y="50" font-family="Sigmar One">Sigmar One!</text>
+  </g>
+</svg>
