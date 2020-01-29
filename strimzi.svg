@@ -2,7 +2,7 @@
   <g id="strimzi">
     <defs>
       <style>
-        @import url("https://static.redhat.com/libs/redhat/redhat-font/2/webfonts/red-hat-font.css");
+        @import url("./rh-font/red-hat-font.css");
       </style>
       <style>.a,.b{fill:#e8e8e8;}.b{font-size:10px;}.b,.l{font-family:RedHatText-Regular, 'RedHatText', sans-serif;}.c,.i{fill:none;}.d{font-size:16px;}.d,.g,.h,.j,.l{fill:#151515;}.d,.g{font-family:RedHatText-Bold, 'RedHatText', sans-serif;font-weight:700;}.e,.m{fill:#fff;}.f{fill:#06c;}.g,.h,.m{font-size:12px;}.h,.m{font-family:RedHatText-Medium, 'RedHatText', sans-serif;font-weight:500;}.i{stroke:#151515;stroke-miterlimit:10;}.k{fill:#f6f6f6;}.l{font-size:11px;}</style>
     </defs>
