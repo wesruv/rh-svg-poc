@@ -283,7 +283,7 @@
   <text class="y" transform="translate(305.44 144.944)">AZ 0<tspan class="k" x="27.252" y="0" xml:space="preserve"> (optional)</tspan></text>
   <rect class="a" x="544.225" y="134.174" width="94.51" height="12.33"/>
   <text class="y" transform="translate(549.146 144.944)">AZ 0<tspan class="k" x="27.252" y="0" xml:space="preserve"> (optional)</tspan></text>
-  <text class="z" transform="translate(305.44 103.846)">Overcloud stack</text>
+  <text class="z" transform="translate(305.44 103.846)">Sobre la nube apilar</text>
   <g>
     <text class="aa" transform="translate(664.102 554.517)">68_OpenStack_0220</text>
     <rect class="ab" y="531.5" width="760" height="40"/>
