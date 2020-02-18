@@ -197,7 +197,7 @@
     <rect class="d" x="540.647" y="397.186" width="159" height="49"/>
     <path class="e" d="M699.147,397.686v48h-158v-48h158m1-1h-160v50h160v-50Z"/>
   </g>
-  <text class="f" transform="translate(550.147 416.79)">Compute nodes<tspan class="k"><tspan x="0" y="14">(local ephemeral)</tspan></tspan></text>
+  <text class="f" transform="translate(550.147 416.79)">Computer nodes<tspan class="k"><tspan x="0" y="14">(local ephemeral)</tspan></tspan></text>
   <g>
     <polyline class="g" points="719.147 223.84 719.147 225.34 717.647 225.34"/>
     <line class="h" x1="714.679" y1="225.34" x2="532.131" y2="225.34"/>
