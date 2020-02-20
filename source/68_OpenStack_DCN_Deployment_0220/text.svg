@@ -251,7 +251,7 @@
       <line class="x" x1="389.219" y1="289.366" x2="389.219" y2="294.01"/>
     </g>
   </g>
-  <text class="b" transform="translate(40.147 497.285)">DCN site 1</text>
+  <text class="b" transform="translate(40.147 497.285)">ODCN site 1</text>
   <rect class="a" x="265.147" y="361.555" width="230" height="150"/>
   <g>
     <polyline class="g" points="475.147 465.186 475.147 466.686 473.647 466.686"/>
@@ -270,8 +270,8 @@
     <path class="e" d="M454.147,397.686v48h-158v-48h158m1-1h-160v50h160v-50Z"/>
   </g>
   <text class="f" transform="translate(305.147 416.79)">Compute nodes<tspan class="k"><tspan x="0" y="14">(local ephemeral)</tspan></tspan></text>
-  <text class="b" transform="translate(285.147 497.285)">DCN site 2</text>
-  <text class="b" transform="translate(530.147 497.285)">DCN site N</text>
+  <text class="b" transform="translate(285.147 497.285)">ODCN site 2</text>
+  <text class="b" transform="translate(530.147 497.285)">ODCN site N</text>
   <rect class="a" x="55.147" y="376.555" width="34.877" height="12.33"/>
   <rect class="a" x="300.147" y="376.555" width="34.877" height="12.33"/>
   <rect class="a" x="300.709" y="134.174" width="94.51" height="12.33"/>
